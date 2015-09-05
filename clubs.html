@@ -9,6 +9,7 @@
   <script src= "https://code.jquery.com/jquery-2.1.4.min.js"></script>
   <!-- Compiled and minified CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
+  <link rel= "stylesheet" href="style.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
   <!-- Compiled and minified JavaScript -->
@@ -16,7 +17,7 @@
   <script type = "text/javascript" src= "clubs.js"></script>
 </head>
 
-<body class="white">
+<body>
   <nav class="light-blue darken-2">
     <div class="nav-wrapper">
       <a href="#" class="brand-logo">FHS Clubs</a>
@@ -35,12 +36,12 @@
     </div>
      <table class="hoverable bordered" style="font-size:18px">
       <tr>
-        <td>Name</td>
-        <td>Genre</td>
-        <td>Day</td>
+        <td><b>Name</b></td>
+        <td><b>Genre</b></td>
+        <td><b>Day</b></td>
       </tr>
       <tr ng-repeat= "club in clubs">
-        <td><a ng-click= "goToClub(club)" style = "background: none">{{club.name}}</button></td>
+        <td><a ng-click= "goToClub(club)" class = "hoverlink">{{club.name}}</button></td>
         <td>{{club.genre}}</td>
         <td>{{club.day}}</td>
       </tr>

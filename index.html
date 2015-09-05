@@ -12,6 +12,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
 </head>
 
+
 <body class = "blue-grey lighten-5">
   <nav class="light-blue darken-3">
     <div class="nav-wrapper">
@@ -23,8 +24,23 @@
       </ul>
     </div>
   </nav>
-
+<div class="parallax-container">
+    <div class="parallax"><img src="image/spirit.jpg"></div>
+  </div>
+  <div class="section white">
+    <div class="row container">
+      <h2 class="header">Parallax</h2>
+      <p class="grey-text text-darken-3 lighten-3">Parallax is an effect where the background content or image in this case, is moved at a different speed than the foreground content while scrolling.</p>
+    </div>
+  </div>
+  <div class="parallax-container">
+    <div class="parallax"><img src="spirit.jpg"></div>
+  </div>
   <p>Hello and welcome to a website that stores all of the information for the clubs at foothill high school. If you see a missing club please contact the creators at gmail@chucknorris.com</p>
-
+<script type="text/javascript">
+$(document).ready(function(){
+  $(".parallax").parallax();
+})
+</script>
 </body>
 </html>

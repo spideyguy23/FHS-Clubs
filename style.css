@@ -1,1 +1,7 @@
+.hoverable tbody tr:hover td, .hoverable tbody tr:hover th {
+  background-color: #ffeb3b;
+}
 
+.hoverlink:hover {
+	color: blue;
+}
