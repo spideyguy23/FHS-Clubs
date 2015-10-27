@@ -49,7 +49,7 @@ app.controller('clubsController', function($scope){
 		genre : "Community Service",
 		time : "lunch",	
 		contact_name : "Sai/Neel Wignarajah",
-		contact_email : "me@gmail.com",
+		contact_email : "csf.fhs@gmail.com",
 		contact_website : ""
 	},
 	{
@@ -61,7 +61,7 @@ app.controller('clubsController', function($scope){
 		genre : "other",
 		time : "After school",	
 		contact_name : "Andy Li",
-		contact_email : "me@gmail.com",
+		contact_email : "chess.foothill@gmail.com",
 		contact_website : ""
 	},
 	{
@@ -73,7 +73,7 @@ app.controller('clubsController', function($scope){
 		genre : "Countries and Culture",
 		time : "After school",	
 		contact_name : "Kai Zamora",
-		contact_email : "me@gmail.com",
+		contact_email : "fhsyoyorangers@gmail.com",
 		contact_website : ""
 	},
 	{
@@ -85,7 +85,7 @@ app.controller('clubsController', function($scope){
 		genre : "Countries and Cultures",
 		time : "lunch",	
 		contact_name : "Maxus Wong",
-		contact_email : "me@gmail.com",
+		contact_email : "foothillcaya@gmail.com",
 		contact_website : ""
 	},
 	{
@@ -97,7 +97,7 @@ app.controller('clubsController', function($scope){
 		genre : "Tech Club",
 		time : "lunch",	
 		contact_name : "Ahad Rauf",
-		contact_email : "me@gmail.com",
+		contact_email : "foothillcsclub@gmail.com",
 		contact_website : ""
 	},
 	{
@@ -169,7 +169,7 @@ app.controller('clubsController', function($scope){
 		genre : "Countries and Culture",
 		time : "lunch",
 		contact_name : "Jennifer Kim",
-		contact_email : "",
+		contact_email : "foothillhsfishclub@gmail.com",
 		contact_website : "",
 	},
 	{
@@ -265,19 +265,19 @@ app.controller('clubsController', function($scope){
 		genre : "other",
 		time : "lunch",
 		contact_name : "Bryn Doyle",
-		contact_email : "",
+		contact_email : "fhsgirlup@gmail.com",
 		contact_website : "",
 	},
 	{
 		name : "Girls Who Code",
 		description : "Teach girls to become interested in coding and computer",
-		day : "Mondays 2-3 times a month",
+		day : "Mondays",
 		location : "D-30",
 		advisor : "Sos",
 		genre : "Tech Club",
 		time : "",
 		contact_name : "Rachel Mundaden",
-		contact_email : "",
+		contact_email : "fhsgirlswhocode@gmail.com",
 		contact_website : "",
 	},
 	{
@@ -325,7 +325,7 @@ app.controller('clubsController', function($scope){
 		genre : "Countries and Culture",
 		time : "lunch",
 		contact_name : "Kai Zamora",
-		contact_email : "",
+		contact_email : "japakura@gmail.com",
 		contact_website : "",
 	},
 	{
@@ -337,7 +337,7 @@ app.controller('clubsController', function($scope){
 		genre : "other",
 		time : "lunch",
 		contact_name : "Soha Ashraf/Sarah Kier",
-		contact_email : "",
+		contact_email : "Sohaashraf20@gmail.com",
 		contact_website : "",
 	},
 	{
@@ -385,7 +385,7 @@ app.controller('clubsController', function($scope){
 		genre : "Countries and Culture",
 		time : "lunch",
 		contact_name : "Galen Gold",
-		contact_email : "",
+		contact_email : "foothill.hs.latin@gmail.com",
 		contact_website : "",
 	},
 	{
@@ -397,7 +397,7 @@ app.controller('clubsController', function($scope){
 		genre : "Service Clubs",
 		time : "lunch",
 		contact_name : "Cindy Zhao/Irene Sha",
-		contact_email : "",
+		contact_email : "foothillleoclub@gmail.com",
 		contact_website : "",
 	},
 	{
@@ -577,7 +577,7 @@ app.controller('clubsController', function($scope){
 		genre : "Academic",
 		time : "3:30-7",
 		contact_name : "Brian Chan",
-		contact_email : "",
+		contact_email : "fhsrobotics1000@gmail.com",
 		contact_website : "",
 	},
 	{
@@ -589,7 +589,7 @@ app.controller('clubsController', function($scope){
 		genre : "Community Service",
 		time : "Lunch",
 		contact_name : "Dhruva Eswar",
-		contact_email : "",
+		contact_email : "fhsscify@gmail.com",
 		contact_website : "",
 	},
 	{
@@ -614,7 +614,7 @@ app.controller('clubsController', function($scope){
 		genre : "Academic",
 		time : "Lunch",
 		contact_name : "Aya Keller",
-		contact_email : "",
+		contact_email : "foothillssa@gmail.com",
 		contact_website : "",
 	},
 
@@ -652,7 +652,7 @@ app.controller('clubsController', function($scope){
 		genre : "Academic",
 		time : "Lunch",
 		contact_name : "Niva Ranavat/ Emily Zhang",
-		contact_email : "",
+		contact_email : "foothillstem@gmail.com",
 		contact_website : "",
 	},
 
@@ -665,7 +665,7 @@ app.controller('clubsController', function($scope){
 		genre : "Tech Club",
 		time : "Lunch",
 		contact_name : "Cassie Wang",
-		contact_email : "",
+		contact_email : "studentfilmmakerassociation@gmail.com",
 		contact_website : "",
 	},
 
